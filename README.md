@@ -28,7 +28,7 @@
 
 ---
 
-![shopify.](./Screenshot%20(136).png)
+![shopify.](./assets/Screenshot%20(136).png)
 
 ### Need help?
 
